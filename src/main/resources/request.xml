@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetMusicaleRequest
+	xmlns="http://spring.io/guides/gs-producing-web-service"
+	xsi:schemaLocation="http://spring.io/guides/gs-producing-web-service musicale.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<name>?</name>
+</GetMusicaleRequest>

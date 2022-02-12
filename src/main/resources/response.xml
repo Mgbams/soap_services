@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetMusicaleResponse
+	xmlns="http://spring.io/guides/gs-producing-web-service"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://spring.io/guides/gs-producing-web-service musicale.xsd">
+	<playlist>
+		<name>Spring in 28 minutes</name>
+		<dureeTotal>You'd learn the basics of spring framework</dureeTotal>
+		<morceaux>
+			<name>yell</name>
+			<dureeTitre>12</dureeTitre>
+			<genreMusicale>
+				<Rock>Rock</Rock>
+				<Pop>Pop</Pop>
+				<Classique>Classique</Classique>
+				<Rapp>Rapp</Rapp>
+				<Jazz>Jazz</Jazz>
+			</genreMusicale>
+		</morceaux>
+	</playlist>
+</GetMusicaleResponse>
